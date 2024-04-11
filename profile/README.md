@@ -10,18 +10,4 @@ A **OZimbres** é
 
 ## PADRÕES
 
-### Issues
-
-Substitua a `#` pela # da **Issue** criada.
-
-| Desenvolvimento | Administração | Documentação |
-| :---: | :---: | :---: |
-| `DEV-#` | `ADM-#` | `DOC-#` |
-
-### Pull Request
-
-Substitua a `#` pela # da **Issue** que vai ser resolvida.
-
-| Desenvolvimento | Administração | Documentação |
-| :---: | :---: | :---: |
-| `DEV-#` | `ADM-#` | `DOC-#` |
+Para mais informações sobre nomenclatura de **Issues** e **Pull Request**, [clique aqui](https://github.com/OZimbres/.github/edit/main/README.md#PADROES)
