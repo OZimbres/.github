@@ -14,10 +14,10 @@ A **OZimbres** é
 
 Substitua a `#` pela # da **Issue** criada.
 
-| Desenvolvimento Abrangente | Codificação | Documentação | Administração |
+| Avanço Genérico | Codificação | Documentação | Administração |
 | :---: | :---: | :---: | :---: |
-| Issue voltada para o **Desenvolvimento Geral** da tarefa sem muita especificidade. | Issue voltada para a **Codificação** da tarefa. | Issue voltada para a **Documentação** da tarefa. | Issue voltada para a **Administração** |
-| `DEV-#` | `COD-#` | `DOC-#` | `ADM-#` |
+| Issue voltada para o **Avanço Genérico** da tarefa, sem muita especificidade. | Issue voltada para a **Codificação** da tarefa. | Issue voltada para a **Documentação** da tarefa. | Issue voltada para a **Administração** |
+| `GEN-#` | `COD-#` | `DOC-#` | `ADM-#` |
 
 ### Pull Request
 
