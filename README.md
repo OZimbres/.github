@@ -23,6 +23,6 @@ Substitua a `#` pela # da **Issue** criada.
 
 Substitua a `#` pela # da **Issue** que vai ser resolvida.
 
-| Desenvolvimento | Administração | Documentação |
-| :---: | :---: | :---: |
-| `DEV-#` | `ADM-#` | `DOC-#` |
+| Avanço Genérico | Codificação | Documentação | Administração |
+| :---: | :---: | :---: | :---: |
+| `GEN-#` | `COD-#` | `DOC-#` | `ADM-#` |
