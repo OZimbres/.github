@@ -17,7 +17,7 @@ Substitua a `#` pela # da **Issue** criada.
 | Desenvolvimento Abrangente | Codificação | Documentação | Administração |
 | :---: | :---: | :---: | :---: |
 | Issue voltada para o **Desenvolvimento Geral** da tarefa sem muita especificidade. | Issue voltada para a **Codificação** da tarefa. | Issue voltada para a **Documentação** da tarefa. | Issue voltada para a **Administração** |
-| `DEV-#` | `DCOD-#` | `DDOC-#` | `DADM-#` |
+| `DEV-#` | `COD-#` | `DOC-#` | `ADM-#` |
 
 ### Pull Request
 
