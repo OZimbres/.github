@@ -10,4 +10,4 @@ A **OZimbres** é
 
 ## VERSIONAMENTO SEMÂNTICO
 
-Para mais informações sobre **versionamento semântico**, [clique aqui](https://github.com/OZimbres/.github/wiki)
+Para mais informações sobre **versionamento semântico**, [clique aqui](https://github.com/OZimbres/.github/wiki/Versionamento-Sem%C3%A2ntico)
